@@ -118,4 +118,4 @@ It’s a great showcase project for **AI / ML / Computer Vision portfolios**.
 > *Where code meets illusion.*
 
 ```
-```
+``` 
